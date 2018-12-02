@@ -2,6 +2,12 @@
 
 edit version of https://github.com/cryptopool-builders/Multi-Pool-Installer
 
+<li>Dedicated Port config generator</li>
+<li>Created by cryptopool.builders for multipool</li>
+<li>This generator will modify the main algo.conf file</li>
+<li>Create the new coin.algo.conf file</li>
+<li>And update the stratum start file</li>
+<li>Edited to use custom port by chronzz</li>
 
 Will only work if you have used the Cryptopool Builder Installer Script
 
