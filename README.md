@@ -6,8 +6,8 @@ edit version of https://github.com/cryptopool-builders/Multi-Pool-Installer
 <li>Created by cryptopool.builders for multipool installer</li>
 <li>This generator will modify the main algo.conf file in stratum/config/</li>
 <li>Edited to use custom port by chronzz</li>
-
-Will only work if you have used the Cryptopool Builder Installer Script
+<br>
+<p>Will only work if you have used the Cryptopool Builder Installer Script</p>
 
 <div><h2>Install</h2></div>
 <code>cd /tmp</code><br>
