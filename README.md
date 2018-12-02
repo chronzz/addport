@@ -23,4 +23,6 @@ Will only work if you have used the Cryptopool Builder Installer Script
 <p>to view screen</p>
 <code>screen -r "coinsympol"</code><br>
 <br><br>
-<p style="font-size: x-small;">*"coinsympol" in lowercase</p>
+<p>"coinsympol" in lowercase</p>
+<p>example</p>
+<code>stratum.btc start btc</code>
