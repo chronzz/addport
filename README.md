@@ -3,7 +3,7 @@
 edit version of https://github.com/cryptopool-builders/Multi-Pool-Installer
 
 
-Will only work if you have used the Cryptopool Builder Multi server Install
+Will only work if you have used the Cryptopool Builder Installer Script
 
 <div><h2>Install</h2></div>
 <code>cd /tmp</code><br>
