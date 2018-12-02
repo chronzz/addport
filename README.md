@@ -22,4 +22,5 @@ Will only work if you have used the Cryptopool Builder Installer Script
 <code>stratum."coinsympol" stop "coinsympol"</code><br>
 <p>to view screen</p>
 <code>screen -r "coinsympol"</code><br>
-<p>*"coinsympol" in lowercase</p>
+<br><br>
+<p style="font-size: x-small;">*"coinsympol" in lowercase</p>
