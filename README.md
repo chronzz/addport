@@ -21,4 +21,4 @@ Will only work if you have used the Cryptopool Builder Multi server Install
 <code>stratum."coinsympol" restart "coinsympol"</code><br>
 <code>stratum."coinsympol" stop "coinsympol"</code><br>
 <p>to view screen</p>
-<p>screen -r "coinsympol"</p>
+<code>screen -r "coinsympol"</code>
