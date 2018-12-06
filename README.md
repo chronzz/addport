@@ -20,7 +20,7 @@ edit version of https://github.com/cryptopool-builders/Multi-Pool-Installer
 <p>run command in stratum server</p>
 <code>addport</code>
 <br><br>
-<p>To START | RESTAT | STOP STRATUM</p>
+<p>To START | RESTART | STOP STRATUM</p>
 <code>stratum."coinsympol" start "coinsympol"</code><br>
 <code>stratum."coinsympol" restart "coinsympol"</code><br>
 <code>stratum."coinsympol" stop "coinsympol"</code><br>
